@@ -6,14 +6,14 @@ Implemented Mini-Amazon web services with Python, Django as framework, and Postg
 
 ## Installation
 
-### Prerequisites
-### Clone Project
-### Configure Local Database
-### Configure APIs and Local Variables
+### 1. Prerequisites
+### 2. Clone Project
+### 3. Configure Local Database
+### 4. Configure APIs and Local Variables
 
 
 ## Usage
-### Run the Server
-### Run the Website (Django)
+### 1. Run the Server
+### 2. Run the Website (Django)
 
 ## Demo
