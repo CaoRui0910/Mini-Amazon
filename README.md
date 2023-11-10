@@ -19,7 +19,7 @@ Implemented Mini-Amazon web services with Python, Django as framework, and Postg
 - A full-stack web app modeling Amazon system paired with [warehouse/world simulator](https://github.com/yunjingliu96/world_simulator_exec) and [Mini-UPS](https://github.com/FANFANFAN2506/Mini_UPS) using Django and PostgreSQL, which simulates the entire process from purchasing to delivery
 - Implemented [backend server](https://github.com/CaoRui0910/Mini-Amazon/tree/main/server), using Socket and Google Protocol Buffer to communicate with world-simulator and Mini-UPS server
 - All features are described in detail in this [document](https://github.com/CaoRui0910/Mini-Amazon/blob/main/differentiation.pdf)
-- 🆒 See all Demos [here](#demo), which includes screenshots.
+- 🆒 See all Demos [here](#demo), which includes screenshots. Click on this [link](https://youtu.be/rV_J4431dYQ) to see a video demo. 
 
 ## Technologies Used
 - **Django**: [Official tutorials](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)
@@ -137,6 +137,12 @@ python3 manage.py runserver
 If you want add data into the database, such as adding products in mini-amazon web, you can try to create an admin user: go to this [link](https://docs.djangoproject.com/en/4.2/intro/tutorial02/), and check "Introducing the Django Admin" part in this link.
 
 ## Demo
+**Click on this [link](https://youtu.be/rV_J4431dYQ) to see a video demo.**
+<br>
+<br>
+Below are screenshots.
+<br>
+<br>
 1. Home page
 <img width="800" alt="Screen Shot 2023-11-10 at 05 59 16" src="https://github.com/CaoRui0910/Mini-Amazon/assets/93239143/5e7ec15b-2608-43f0-8346-4dfc5f3a454d">
 <br>
