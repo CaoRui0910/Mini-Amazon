@@ -19,7 +19,7 @@ Implemented Mini-Amazon web services with Python, Django as framework, and Postg
 - A full-stack web app modeling Amazon system paired with [warehouse/world simulator](https://github.com/yunjingliu96/world_simulator_exec) and [Mini-UPS](https://github.com/FANFANFAN2506/Mini_UPS) using Django and PostgreSQL, which simulates the entire process from purchasing to delivery
 - Implemented [backend server](https://github.com/CaoRui0910/Mini-Amazon/tree/main/server), using Socket and Google Protocol Buffer to communicate with world-simulator and Mini-UPS server
 - All features are described in detail in this [document](https://github.com/CaoRui0910/Mini-Amazon/blob/main/differentiation.pdf)
-- 🆒 See all Demos [here](#demo), which includes screenshots. Click on this [link](https://youtu.be/rV_J4431dYQ) to see a video demo. 
+- 🆒 See all Demos [here](#demo), which includes screenshots. Click on this [link](https://youtu.be/rV_J4431dYQ) to see a video demo (Note: Due to network limitations, some functions involving emails (e.g., subscriptions, emails about successful purchases, emails about package status) were not recorded. Besides, the demo in this video doesn't work with the warehouse/world simulator and Mini-UPS, but interested parties can try to get the code for this project as well as the warehouse/world simulator and Mini-UPS from my GitHub link to get them to collaborate and communicate in order to simulate the entire process from purchasing to delivery.)
 
 ## Technologies Used
 - **Django**: [Official tutorials](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)
