@@ -1,6 +1,15 @@
 # Mini-Amazon
 Implemented Mini-Amazon web services with Python, Django as framework, and Postgres as database.
 
+## Table of Contents
+1. [Description](#Description)
+2. [Installation](#Installation)
+   1. [Prerequisites](#Prerequisites)
+   2. [Clone Project](#CloneProject)
+   3. [Clone Project](#CloneProject)
+3. [Usage](#Usage)
+4. [Demo](#Demo)
+
 ## Description
 
 
